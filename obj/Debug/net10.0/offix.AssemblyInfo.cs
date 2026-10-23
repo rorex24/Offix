@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("offix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8227bd5c6faede8bb7e59b2ddd37a9fcd57bf9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("offix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("offix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
